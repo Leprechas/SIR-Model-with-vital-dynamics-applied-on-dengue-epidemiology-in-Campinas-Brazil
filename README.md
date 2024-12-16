@@ -3,7 +3,7 @@ This is a repository involving the study of the dengue disease in Campinas - Bra
 
 # Application of the SIR Model with Vital Dynamics to the Study of Dengue Transmission in the Municipality of Campinas - SP
 
-Vitor E.G. Barelli¹, Tiago M. Bigardi²,  
+Vitor E. G. Barelli¹, Tiago M. Bigardi²,  
 Felipe S. Minatogau³,  
 Ilum School of Science, C. N. for Research in Energy and Materials, 13087-548,  
 Campinas/SP, Brazil.
